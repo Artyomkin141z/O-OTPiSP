@@ -5,7 +5,7 @@
 * if this variable is defined -> show created and deleted objects count
 * it helps us to define that program manipulate objects correctly
 */
-//#define DEBUG
+#define DEBUG
 
 using namespace std;
 
